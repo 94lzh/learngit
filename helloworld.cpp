@@ -6,6 +6,7 @@ int main(){
     cout<<"the second modification"<<endl;
     cout<<"the third modification"<<endl;
     cout<<"the new branch"<<endl;
+    cout<<"the master branch"<<endl;
     
     return 0;
 }
